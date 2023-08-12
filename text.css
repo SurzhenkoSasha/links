@@ -1,0 +1,35 @@
+h1{
+	font-weight: 400;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 5px;
+}
+p{
+	text-align: justify;
+	text-indent: 24px;
+	margin: 0;
+	line-height: 24px;
+	word-spacing: 2px;
+}
+h2{
+	text-transform: capitalize;
+	font-style: italic;
+}
+.Crimea{
+	float: right;
+	margin-left: 20px;
+}
+.map{
+	border: solid 2px grey;
+	width: 340px;
+	float: right;
+}
+.map figcaption{
+	background-color: black;
+	color: white;
+	text-align: right;
+}
+.fase img{
+	margin: 5px;
+	margin: auto;
+}

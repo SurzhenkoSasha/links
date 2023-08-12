@@ -1,0 +1,23 @@
+body{
+	background-color: lightseagreen;
+}
+p{
+	font-size: 50px;
+	background-color: orange;
+	color: blue;
+	text-align: center;
+}
+
+.fl{
+	font-size: 24px;
+	color: green;
+	text-decoration: none;
+}
+.fl:visited{
+	color: hotpink;
+}
+.fll:hover{
+	text-shadow: 0, 0, 20px gold;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}

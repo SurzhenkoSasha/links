@@ -1,0 +1,37 @@
+body{
+	background-color: pink;
+background-image: url(https://cdn.pixabay.com/animation/2022/11/17/00/47/00-47-21-570_512.gif);
+background-size: 200px;
+background-repeat: no-repeat;
+background-position: 100% 100%;
+background-attachment: fixed;
+b
+}
+p{
+	font-size: 15mm;
+	color: deepskyblue;
+	background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg);
+background-size: cover;
+}
+.img1{
+	width: 30%;
+	margin: auto;
+	display: block;
+	border-radius: 25%;
+	box-shadow: 20px -20px 50px blue;
+}
+.img2{
+	width: 300px;
+}
+.d1{
+	width: 500px;
+	height: 300px;
+	background-image: url(https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg);
+background-size: cover;
+}
+.d1{
+	width: 500px;
+	height: 300px;
+	background: linear-gradient(45deg, rgba(255, 255, 0, 0.5), rgba(0, 0, 255, 0.5)) ,url(https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg);
+background-size: cover;
+}
